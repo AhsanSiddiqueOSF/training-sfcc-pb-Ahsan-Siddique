@@ -11,7 +11,8 @@ KEY = {
   10 => 'J',
   11 => 'K',
   25 => 'Y',
-  26 => 'Z'
+  26 => 'Z',
+  27 => 'A'
 }
 
 # Define a method that takes an array of numbers to decode.
